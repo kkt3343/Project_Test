@@ -3,3 +3,8 @@
 
 프로젝트 private <-> public 전환도 Setting -> 맨밑에서 설정 가능하다.
 사진첨부 했으니 참고
+
+파일 첨부하는 법은 Addfile이다.
+
+
+-
