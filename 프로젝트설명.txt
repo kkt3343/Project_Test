@@ -1,2 +1,5 @@
 
 프로젝트 삭제하는법 : Setting -> 맨밑의 Delete
+
+프로젝트 private <-> public 전환도 Setting -> 맨밑에서 설정 가능하다.
+사진첨부 했으니 참고
