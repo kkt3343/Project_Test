@@ -1,0 +1,2 @@
+
+프로젝트 삭제하는법 : Setting -> 맨밑의 Delete
